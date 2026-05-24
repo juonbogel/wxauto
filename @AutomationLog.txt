@@ -1,0 +1,1 @@
+2026-05-20 17:59:50.302 wxauto.py[218] ChatWith -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ClassName: 'mmui::ChatSessionCell', ControlType: ListItemControl}
